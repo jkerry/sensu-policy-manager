@@ -1,4 +1,4 @@
-package main
+package sensupackagemanager
 
 import (
 	"encoding/json"
